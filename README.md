@@ -1,4 +1,4 @@
-# test_sample
+# Wifi Adapter Issue solving in ubuntu and Windows
 sample testing github
 
 
