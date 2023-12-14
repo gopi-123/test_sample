@@ -21,6 +21,9 @@ https://answers.microsoft.com/en-us/windows/forum/all/cannot-see-own-wireless-ne
 
 Best thing is to:
  1) To me the answer is get a new wireless card or a **USB wireless connector**.  or **USB Wi-Fi Adapter**  oer **Wireless USB adapter**
+ 2)  --updating the driver in device manager --**Intel driver to the Microsoft driver
+   Uninstall / reinstall the wi-fi adapter by following this procedure:            
+            https://www.drivereasy.com/knowledge/how-to-reinstall-wi-fi-driver-on-windows-10-easily/ 
  
 1) https://askubuntu.com/questions/721981/how-to-configure-rtl8723be-to-detect-wifi-networks-solved-for-hp-laptop
 
@@ -98,5 +101,22 @@ Login to the router via another device, go to the wireless settings page and cha
             Otherwise, download and reinstall the latest driver version available from the pc manufacturer's website
             
 
+15) **My network adapter are [Intel(R) Dual Band Wireless-AC 3160].
+
+**Following is my operation steps:****
+
+       **(1) Run Device Manager;
+       
+       (2) Select Network adapters and then [Intel(R) Dual Band Wireless-AC 3160]
+       
+       (3) Right click and select update driver
+       
+       (4) Select [Browse my computer for drivers]
+       
+       (5) Click [Let me pick from a list of available drivers on my computer]
+       
+       (6) Select [[Intel(R) Dual Band Wireless-AC 3160] (Microsoft)]
+       
+       (7) Click Next**
 
 
