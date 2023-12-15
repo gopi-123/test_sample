@@ -21,6 +21,8 @@ https://answers.microsoft.com/en-us/windows/forum/all/cannot-see-own-wireless-ne
 
 Best thing is to:
  1) To me the answer is get a new wireless card or a **USB wireless connector**.  or **USB Wi-Fi Adapter**  oer **Wireless USB adapter**
+    https://www.amazon.de/-/en/TP-Link-TL-WN823N-300Mbit-installation-compatible/dp/B0088TKTY2/ref=sr_1_3?crid=3RRKYLOJQ7CKF&keywords=USB+Wi-Fi+Adapter+for+linux+and+windows&qid=1702601553&refinements=p_72%3A419117031&rnid=419116031&sprefix=usb+wi-fi+adapter+for+linux+and+windows%2Caps%2C71&sr=8-3
+    
  2)  --updating the driver in device manager --**Intel driver to the Microsoft driver
    Uninstall / reinstall the wi-fi adapter by following this procedure:            
             https://www.drivereasy.com/knowledge/how-to-reinstall-wi-fi-driver-on-windows-10-easily/ 
